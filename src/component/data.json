@@ -1,0 +1,236 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Emily Johnson",
+      "area_of_interest": "Digital Marketing",
+      "available_from": "18:00",
+      "available_to": "21:00",
+      "mentors": []
+    },
+    {
+      "id": 2,
+      "name": "Daniel Smith",
+      "area_of_interest": "Data Science",
+      "available_from": "14:00",
+      "available_to": "17:00",
+      "mentors": []
+    },
+    {
+      "id": 3,
+      "name": "Sophie Adams",
+      "area_of_interest": "E-Commerce",
+      "available_from": "10:00",
+      "available_to": "13:00",
+      "mentors": []
+    },
+    {
+      "id": 4,
+      "name": "Michael Brown",
+      "area_of_interest": "FMCG Sales",
+      "available_from": "16:00",
+      "available_to": "19:00",
+      "mentors": []
+    },
+    {
+      "id": 5,
+      "name": "Olivia Taylor",
+      "area_of_interest": "Operations Management",
+      "available_from": "11:00",
+      "available_to": "15:00",
+      "mentors": []
+    },
+    {
+      "id": 6,
+      "name": "James Wilson",
+      "area_of_interest": "Logistics",
+      "available_from": "09:00",
+      "available_to": "12:00",
+      "mentors": []
+    },
+    {
+      "id": 7,
+      "name": "Ava Miller",
+      "area_of_interest": "Digital Marketing",
+      "available_from": "13:00",
+      "available_to": "16:00",
+      "mentors": []
+    },
+    {
+      "id": 8,
+      "name": "Liam Davis",
+      "area_of_interest": "E-Commerce",
+      "available_from": "15:00",
+      "available_to": "18:00",
+      "mentors": []
+    },
+    {
+      "id": 9,
+      "name": "Isabella Martinez",
+      "area_of_interest": "Data Science",
+      "available_from": "12:00",
+      "available_to": "15:00",
+      "mentors": []
+    },
+    {
+      "id": 10,
+      "name": "Benjamin Garcia",
+      "area_of_interest": "FMCG Sales",
+      "available_from": "17:00",
+      "available_to": "20:00",
+      "mentors": []
+    }
+  ],
+  "mentors": [
+    {
+      "id": 1,
+      "name": "Michael Brown",
+      "areas_of_expertise": ["Digital Marketing", "FMCG Sales", "Data Science"],
+      "available_from": "18:00",
+      "available_to": "21:00"
+    },
+    {
+      "id": 2,
+      "name": "Jessica Lee",
+      "areas_of_expertise": ["Digital Marketing", "E-Commerce"],
+      "available_from": "17:00",
+      "available_to": "20:00"
+    },
+    {
+      "id": 3,
+      "name": "David Harris",
+      "areas_of_expertise": ["Operations Management", "Logistics"],
+      "available_from": "18:00",
+      "available_to": "22:00"
+    },
+    {
+      "id": 4,
+      "name": "Sarah Williams",
+      "areas_of_expertise": ["Data Science", "E-Commerce"],
+      "available_from": "09:00",
+      "available_to": "12:00"
+    },
+    {
+      "id": 5,
+      "name": "John Doe",
+      "areas_of_expertise": ["FMCG Sales", "Operations Management"],
+      "available_from": "13:00",
+      "available_to": "17:00"
+    },
+    {
+      "id": 6,
+      "name": "Emma Brown",
+      "areas_of_expertise": ["Logistics", "Data Science"],
+      "available_from": "10:00",
+      "available_to": "14:00"
+    },
+    {
+      "id": 7,
+      "name": "Ryan Clark",
+      "areas_of_expertise": ["E-Commerce", "Digital Marketing"],
+      "available_from": "14:00",
+      "available_to": "18:00"
+    },
+    {
+      "id": 8,
+      "name": "Sophia Lewis",
+      "areas_of_expertise": ["FMCG Sales", "E-Commerce"],
+      "available_from": "15:00",
+      "available_to": "19:00"
+    },
+    {
+      "id": 9,
+      "name": "Lucas Walker",
+      "areas_of_expertise": ["Data Science", "Logistics"],
+      "available_from": "11:00",
+      "available_to": "15:00"
+    },
+    {
+      "id": 10,
+      "name": "Mia Johnson",
+      "areas_of_expertise": ["Operations Management", "Digital Marketing"],
+      "available_from": "12:00",
+      "available_to": "16:00"
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1,
+      "date": "2024-08-16",
+      "mentorId": 1,
+      "studentId": 1,
+      "duration": 30
+    },
+    {
+      "id": 2,
+      "date": "2024-08-17",
+      "mentorId": 2,
+      "studentId": 2,
+      "duration": 45
+    },
+    {
+      "id": 3,
+      "date": "2024-08-18",
+      "mentorId": 3,
+      "studentId": 3,
+      "duration": 60
+    },
+    {
+      "id": 4,
+      "date": "2024-08-19",
+      "mentorId": 4,
+      "studentId": 4,
+      "duration": 30
+    },
+    {
+      "id": 5,
+      "date": "2024-08-20",
+      "mentorId": 5,
+      "studentId": 5,
+      "duration": 45
+    },
+    {
+      "id": 6,
+      "date": "2024-08-21",
+      "mentorId": 6,
+      "studentId": 6,
+      "duration": 30
+    },
+    {
+      "id": 7,
+      "date": "2024-08-22",
+      "mentorId": 7,
+      "studentId": 7,
+      "duration": 60
+    },
+    {
+      "id": 8,
+      "date": "2024-08-23",
+      "mentorId": 8,
+      "studentId": 8,
+      "duration": 45
+    },
+    {
+      "id": 9,
+      "date": "2024-08-24",
+      "mentorId": 9,
+      "studentId": 9,
+      "duration": 30
+    },
+    {
+      "id": 10,
+      "date": "2024-08-25",
+      "mentorId": 10,
+      "studentId": 10,
+      "duration": 45
+    }
+  ],
+  "areas_of_interest": [
+    "Digital Marketing",
+    "FMCG Sales",
+    "Data Science",
+    "E-Commerce",
+    "Operations Management",
+    "Logistics"
+  ]
+}
